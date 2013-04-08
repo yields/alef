@@ -1,0 +1,23 @@
+{
+  "name": "alef",
+  "repo": "yields/alef",
+  "description": "alef font face, included eot, ttf, woff and svg",
+  "version": "0.0.1",
+  "keywords": ["font", "alef"],
+  "fonts": [
+    "fonts/alef-bold.eot",
+    "fonts/alef-bold.ttf",
+    "fonts/alef-bold.woff",
+    "fonts/alef-bold.svg",
+    "fonts/alef.eot",
+    "fonts/alef.ttf",
+    "fonts/alef.woff",
+    "fonts/alef.svg"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "alef.css"
+  ]
+}
