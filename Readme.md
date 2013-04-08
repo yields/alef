@@ -7,8 +7,13 @@
 
     $ component install yields/alef
 
-## API
+## Example
 
+```css
+body {
+  font-family: 'alef';
+}
+```
    
 
 ## License
