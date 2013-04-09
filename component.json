@@ -1,7 +1,7 @@
 {
   "name": "alef",
   "repo": "yields/alef",
-  "description": "alef font face, included eot, ttf, woff and svg",
+  "description": "Alef is an open source bilingual web-font",
   "version": "0.0.1",
   "keywords": ["font", "alef"],
   "fonts": [

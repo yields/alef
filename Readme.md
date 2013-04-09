@@ -1,7 +1,7 @@
 
 # [alef](http://alef.hagilda.com/)
 
-  alef font face
+  [Alef](http://alef.hagilda.com/) is an open source bilingual web-font
 
 ## Installation
 
