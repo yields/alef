@@ -1,0 +1,31 @@
+{
+  "name": "alef",
+  "repo": "schniz/alef",
+  "description": "Alef is an open source bilingual web-font",
+  "version": "0.0.1",
+  "keywords": [
+    "font",
+    "alef"
+  ],
+  "fonts": [
+    "fonts/alef-bold.eot",
+    "fonts/alef-bold.ttf",
+    "fonts/alef-bold.woff",
+    "fonts/alef-bold.svg",
+    "fonts/alef.eot",
+    "fonts/alef.ttf",
+    "fonts/alef.woff",
+    "fonts/alef.svg"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "alef.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
