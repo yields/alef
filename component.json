@@ -2,7 +2,7 @@
   "name": "alef",
   "repo": "yields/alef",
   "description": "Alef is an open source bilingual web-font",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["font", "alef"],
   "fonts": [
     "fonts/alef-bold.eot",
