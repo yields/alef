@@ -1,0 +1,24 @@
+
+// Normal
+@font-face {
+  font-family: 'alef';
+  font-weight: normal;
+  font-style: normal;
+  src: font-url('alef/fonts/alef.eot');
+  src: font-url('alef/fonts/alef.eot?#iefix') format('embedded-opentype')
+    , font-url('alef/fonts/alef.woff') format('woff')
+    , font-url('alef/fonts/alef.ttf') format('truetype')
+    , font-url('alef/fonts/alef.svg#alefregular') format('svg');
+}
+
+// Bold
+@font-face {
+  font-family: 'alef';
+  font-weight: bold;
+  font-style: normal;
+  src: font-url('alef/fonts/alef-bold.eot');
+  src: font-url('alef/fonts/alef-bold.eot?#iefix') format('embedded-opentype')
+    , font-url('alef/fonts/alef-bold.woff') format('woff')
+    , font-url('alef/fonts/alef-bold.ttf') format('truetype')
+    , font-url('alef/fonts/alef-bold.svg#alefbold') format('svg');
+}
