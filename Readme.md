@@ -17,6 +17,16 @@ body {
 }
 ```
    
+## Rails usage
+Install via bower to your favorite directory. like `/vendor/bower_components/`
+After you finished (you need to configure your `application.rb`), you should add this line in your application.css manifest:
+
+```css
+*= require alef/alef_rails.css
+```
+
+that should do it.
+
 
 ## License
 
